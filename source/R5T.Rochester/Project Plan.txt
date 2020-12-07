@@ -1,4 +1,3 @@
-R5T.Rochester - A library for data repository-specific functionality.
+﻿R5T.Rochester - A library for data repository-specific functionality.
 
-Goals
-
+Contains helpers and utilities for IRepository implementations.
